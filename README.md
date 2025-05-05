@@ -9,7 +9,7 @@ Before you begin, make sure you have the following installed:
 - [Terraform](https://www.terraform.io/downloads.html)
 - An [AWS account](https://aws.amazon.com/)
 - SSH access to your AWS environment
-- Your SSH key (`dov-key`) available for EC2 access
+- Get Your SSH key eg. (`dov-key`) available for EC2 access
 
 ## Project Overview 🌐
 
