@@ -1,0 +1,7 @@
+.terraform
+dovekey
+dovekey.pub
+private_ips.txt
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
