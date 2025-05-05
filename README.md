@@ -21,10 +21,10 @@ This project provisions the following AWS resources:
 
 ### Key Files 📂
 
-- **`instance.tf`**: Defines the EC2 instance and its provisioning steps.
-- **`keypair.tf`**: Defines the AWS SSH key pair used to connect to the instance.
+- **`Instance.tf`**: Defines the EC2 instance and its provisioning steps.
+- **`Keypair.tf`**: Defines the AWS SSH key pair used to connect to the instance.
 - **`provider.tf`**: Defines the AWS provider and region settings.
-- **`secgrp.tf`**: Defines the security group and its inbound/outbound rules.
+- **`Secgrp.tf`**: Defines the security group and its inbound/outbound rules.
 - **`vars.tf`**: Specifies variables like region, AMI ID, and SSH user.
 - **`web.sh`**: Bash script to install Apache and deploy a static website.
 - **`backend.tf`**: Configures an S3 backend for managing Terraform state.
